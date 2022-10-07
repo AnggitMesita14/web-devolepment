@@ -1,0 +1,3 @@
+Rencana Web Home
+- Saya mau membuat navbar halaman home
+- Saya akan membuat body halaman home
