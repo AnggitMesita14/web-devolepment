@@ -1,3 +1,4 @@
 Rencana Web Home
 - Saya mau membuat navbar halaman home
+  * memasukkan logo gambar
 - Saya akan membuat body halaman home
